@@ -64,7 +64,7 @@ export default {
       {
         icon: 'mdi-home',
         title: 'Home',
-        link: '/' 
+        link: '/'
       },
       {
         icon: 'mdi-lan-connect',
